@@ -1,6 +1,6 @@
 [![MasterHead](https://i.redd.it/thj41ymmh0351.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ahmed Hany</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">Hi 👋, My Name's Ahmed Hany</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4328C3&width=435&lines=I'm+a+front+end+developer" alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
